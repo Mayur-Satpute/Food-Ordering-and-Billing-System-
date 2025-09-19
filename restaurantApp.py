@@ -193,10 +193,4 @@ class Hotel:
 hotel = Hotel()
 hotel.main()
 
-##👉 If you present this in an interview, you can say:
-
-#---I built a console-based restaurant management system in Python to practice OOP.
-#---It includes user registration/login, menu-driven food ordering, bill generation,
-#---and an admin dashboard to view users and orders. This project demonstrates
-#---my ability to design structured programs with classes and real-world features.
 

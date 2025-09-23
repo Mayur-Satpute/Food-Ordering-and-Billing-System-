@@ -41,7 +41,7 @@ cd food-ordering-billing-system
 
 Run the program:
 
-python food_system.py
+python foodsystem.py
 
 🖼️ Example Output
 ------ WELCOME TO FOOD ORDERING SYSTEM ------

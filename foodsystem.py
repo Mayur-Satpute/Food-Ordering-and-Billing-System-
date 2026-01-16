@@ -40,7 +40,7 @@ class Hotel:
         name = input("Enter Name: ").capitalize()
         email = input("Enter Email: ").lower()
         contact = input("Enter Contact: ")
-        city = input("Enter City: ").capitalize()
+        city = input("Enter City: ")
         password = input("Enter Password: ")
 
         user = User(self.user_count, name, email, contact, city, password)
